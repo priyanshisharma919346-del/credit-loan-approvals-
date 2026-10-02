@@ -3,10 +3,10 @@
 An end-to-end Machine Learning classification pipeline designed to analyze credit eligibility and predict default risks using financial applicant data.
 
 ## 🛠️ Tech Stack & Tools
-- **Language:** Python
-- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Language:** Python.
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
 - **Techniques:** SMOTE (Class Imbalance), RobustScaler (Feature Scaling), Optuna (Hyperparameter Tuning)
-- **BI & Visualization:** Power BI, Matplotlib, Seaborn[cite: 1]
+- **BI & Visualization:** Power BI, Matplotlib, Seaborn.
 - **Database:** SQL
   
 ## 🚀 Key Features & Workflow
